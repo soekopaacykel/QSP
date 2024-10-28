@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QSPtest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49c021a7af1c81a2806c16d06edc3c1645ab6d1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb46434672eb3ae79f0eedcd726ecc1afe87245b")]
 [assembly: System.Reflection.AssemblyProductAttribute("QSPtest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QSPtest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
