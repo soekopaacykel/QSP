@@ -233,3 +233,4 @@
 /Users/Mel/4sem/QSP-kopi/QSPtest/obj/Debug/net8.0/QSPtest.pdb
 /Users/Mel/4sem/QSP-kopi/QSPtest/obj/Debug/net8.0/QSPtest.genruntimeconfig.cache
 /Users/Mel/4sem/QSP-kopi/QSPtest/obj/Debug/net8.0/ref/QSPtest.dll
+/Users/Mel/4sem/TDD/QSPtest/obj/Debug/net8.0/QSPtest.sourcelink.json

@@ -47,3 +47,4 @@
 /Users/Mel/4sem/QSP-kopi/QSParsingConsoleApp/obj/Debug/net8.0/QSParsingConsoleApp.pdb
 /Users/Mel/4sem/QSP-kopi/QSParsingConsoleApp/obj/Debug/net8.0/QSParsingConsoleApp.genruntimeconfig.cache
 /Users/Mel/4sem/QSP-kopi/QSParsingConsoleApp/obj/Debug/net8.0/ref/QSParsingConsoleApp.dll
+/Users/Mel/4sem/TDD/QSParsingConsoleApp/obj/Debug/net8.0/QSParsingConsoleApp.sourcelink.json
