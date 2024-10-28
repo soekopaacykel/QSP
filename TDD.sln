@@ -1,0 +1,33 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QSParsingConsoleApp", "QSParsingConsoleApp\QSParsingConsoleApp.csproj", "{9A1E3611-A133-4FD8-8D5A-5AC463172BD5}"
+EndProject
+
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QSPtest", "QSPtest\QSPtest.csproj", "{E5B5B548-2F71-42B3-BBA5-B501A89D5924}"
+EndProject
+
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {9A1E3611-A133-4FD8-8D5A-5AC463172BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {9A1E3611-A133-4FD8-8D5A-5AC463172BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {9A1E3611-A133-4FD8-8D5A-5AC463172BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {9A1E3611-A133-4FD8-8D5A-5AC463172BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+        {E5B5B548-2F71-42B3-BBA5-B501A89D5924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {E5B5B548-2F71-42B3-BBA5-B501A89D5924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {E5B5B548-2F71-42B3-BBA5-B501A89D5924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {E5B5B548-2F71-42B3-BBA5-B501A89D5924}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+    GlobalSection(ExtensibilityGlobals) = postSolution
+        SolutionGuid = {9EE5F0EA-DF77-4993-B3F3-7E2CA92866E6}
+    EndGlobalSection
+EndGlobal
